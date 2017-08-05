@@ -1,0 +1,3 @@
+This is another default document that I created only for the purpose of testing of Git and Github.
+
+Just so you know.
